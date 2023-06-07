@@ -1,0 +1,40 @@
+// <br> : satır atama
+   <b>  : kalın punto
+   <h1> : başlık (Büyük puntolu gösterir) (h1, h2, h3, .., h6) 1 en büyük, 6 en küçük
+   <!--  kendime not --> : yorum satırı. Java da ki // gibi..
+   <body bgcolor="yellow"> : arka planı sarı yapar
+   <font> : karakter rengi (<font color=blue>) (<font color=blue>) (<font color="blue" face="verdana">)
+                                                                                    yazı stili belirledik.
+   <p> </p> :  paragraf, satır boşluğu
+   <big> </big> : mevcut punto büyüklüğünü bir yukarıya artırır.
+   <small> </small> : mevcut punto büyüklüğünü bir aşağı azaltır.
+   <u> : underline, altı çizili
+   <i> : italic yazı
+   <h1> align="center" : ortaya hizalar
+   <a> : link koyma (<a href="https://www.google.com/">) gibi kullanılır
+   <frameset> : 2 sayfayı birleştirme
+        <frameset cols= > : dikey birleştirir
+        <frameset rows= > : yatay birleştirir
+   <pre> : göründüğü gibi göster. Yani satır açmana falan gerek kalmıyor.
+   <!--  body bgcolor="#000000" arka forn renk belirleme -->
+
+// FORMATI:
+
+<html>
+
+   <head>
+     <title> ismet temur </title>
+   </head>
+
+   <body bgcolor="yellow">
+      Toplantı notlarımız    // bu bölüm, sayfada görünecek kısım
+      <br>1- geçen haftanın kontrol
+      <br>2- bu haftanın kontrolü
+      <br>3- gelecek haftanın planlanması
+   </body>
+
+</html>
+<meta charset="UTF-8">       // türkçe karakterleri düzenler
+
+
+
